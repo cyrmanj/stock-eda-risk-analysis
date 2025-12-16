@@ -22,9 +22,7 @@ The entire analysis workflow—from data fetching and cleaning to calculation—
 
 ##🚀 Access the Interactive DashboardYou can explore the final, interactive visualizations, including the Volatility Ranking and the Correlation Heatmap, by following the link below.
 
-**[View Stock Risk Analysis Dashboard in Looker Studio](https://www.google.com/search?q=https://lookerstudio.google.com/reporting/[Your Looker Studio Report ID]/page/RAxiF)**
-
-*(Please replace `[Your Looker Studio Report ID]` with your actual public link.)*
+**[View Stock Risk Analysis Dashboard in Looker Studio](https://lookerstudio.google.com/reporting/6326ed8e-a4d7-4362-893d-064ce3b176d4/page/RAxiF)**
 
 ---
 
